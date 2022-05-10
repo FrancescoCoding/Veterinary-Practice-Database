@@ -1,7 +1,7 @@
 # Veterinary Practice SQL Database
 Database created for a local veterinary practice to migrate their system from Excel to SQL, which is more flexible and accessible.
 
-- The database accomodates all relevant data without loss of information.
+- The database accommodates all relevant data without loss of information.
 - The database follows the principles of relational database design. In particular, all tables
 are in third normal form. A comprehensive set of integrity and domain constraints have been applied:
   - Entity integrity
